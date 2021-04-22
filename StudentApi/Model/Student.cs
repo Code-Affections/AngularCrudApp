@@ -22,5 +22,8 @@ namespace StudentApi.Model
         public string Address3 { get; set; }
 
         public string Address3333 { get; set; }
+
+
+        // login page completed
     }
 }
