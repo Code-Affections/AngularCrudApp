@@ -15,5 +15,12 @@ namespace StudentApi.Model
         public string name { get; set; }
 
         public string address  { get; set; }
+
+
+        public string Address2 { get; set; }
+
+        public string Address3 { get; set; }
+
+        public string Address3 { get; set; }
     }
 }

@@ -15,6 +15,9 @@ using StudentApi.Model;
 
 namespace StudentApi
 {
+    /// <summary>
+    /// dd
+    /// </summary>
     public class Startup
     {
         public Startup(IConfiguration configuration)
